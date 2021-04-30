@@ -1,7 +1,9 @@
 # <p align="center">🐱‍👤 ArziPL 🐱‍👤</p>
 
-<!-- <div><img align="right" width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzipl&theme=highcontrast"/></div> -->
-### &nbsp; &nbsp; &nbsp; About me :  
+<img width="460" align="right" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzipl&theme=highcontrast"/>
+
+
+### About me :  
 :raising_hand_man: 18y/o IT high school student  
 :book: Currently learning **React**  
 :wrench: Working on **hotel-page-generator**  
@@ -9,6 +11,9 @@
 :roll_eyes: I am ... **ambitious, patient** and **calm**  
 :heart: Passionate about **sport :weight_lifting_man:, technology :desktop_computer:** and **gaming :video_game:**  
 :mailbox: Contact me ! ogryzek.arkadiusz@gmail.com  
+
+
+
 
 ### &nbsp; &nbsp; &nbsp; Technologies i like :
 
