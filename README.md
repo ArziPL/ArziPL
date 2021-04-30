@@ -1,14 +1,14 @@
 # <p align="center">🐱‍👤 ArziPL 🐱‍👤</p>
 
-<img align="right" width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzipl&theme=highcontrast">  
-### &nbsp; &nbsp; &nbsp; About me :
+<!-- <div><img align="right" width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzipl&theme=highcontrast"/></div> -->
+### &nbsp; &nbsp; &nbsp; About me :  
 :raising_hand_man: 18y/o IT high school student  
-:book: Currently learning **React**    
-:wrench: Working on **hotel-page-generator**   
+:book: Currently learning **React**  
+:wrench: Working on **hotel-page-generator**  
 :running: Want to get job as **Full Stack Dev**  
 :roll_eyes: I am ... **ambitious, patient** and **calm**  
 :heart: Passionate about **sport :weight_lifting_man:, technology :desktop_computer:** and **gaming :video_game:**  
-:mailbox: Contact me ! ogryzek.arkadiusz@gmail.com 
+:mailbox: Contact me ! ogryzek.arkadiusz@gmail.com  
 
 ### &nbsp; &nbsp; &nbsp; Technologies i like :
 
