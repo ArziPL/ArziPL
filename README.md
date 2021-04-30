@@ -8,8 +8,8 @@
 :book: Currently learning **React**  
 :wrench: Working on **hotel-page-generator**  
 :running: Want to get job as **Full Stack Dev**  
-:roll_eyes: I am ... **ambitious, patient** and **calm**  
-:heart: Passionate about **sport :weight_lifting_man:, technology :desktop_computer:** and **gaming :video_game:**  
+:roll_eyes: I am ... **ambitious, patient, calm**  
+:heart: Passionate about **sport :weight_lifting_man:, technology :desktop_computer:, gaming :video_game:**  
 :mailbox: Contact me ! ogryzek.arkadiusz@gmail.com  
 
 
