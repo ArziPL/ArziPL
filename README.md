@@ -6,7 +6,7 @@
 ### About me :  
 :raising_hand_man: 18y/o IT high school student  
 :book: Currently learning **React**  
-:wrench: Working on **hotel-page-generator**  
+:wrench: Working on **lux-moto**  
 :running: Want to get job as **Full Stack Dev**  
 :roll_eyes: I am ... **ambitious, patient, calm**  
 :heart: Passionate about **sport :weight_lifting_man:, technology :desktop_computer:, gaming :video_game:**  
