@@ -9,8 +9,9 @@
 :wrench: Working on **lux-moto**  
 :running: Want to get job as **Full Stack Dev**  
 :roll_eyes: I am ... **ambitious, patient, calm**  
-:heart: Passionate about **technology :desktop_computer:,** **sport :weight_lifting_man:,** **gaming :video_game:**  
+:heart: Interested in **technology :desktop_computer:,** **sport :weight_lifting_man:,** **gaming :video_game:**  
 :mailbox: Contact me ! ogryzek.arkadiusz@gmail.com  
+:pencil: My CodeForces profile :) https://codeforces.com/profile/ArZi
 
 
 
