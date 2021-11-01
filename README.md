@@ -1,9 +1,8 @@
-***
 # <p align="center">🐱‍👤 ArziPL 🐱‍👤</p>
 
 <img width="460" align="right" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzipl&theme=highcontrast"/>
 
-
+***
 ### About me :  
 :raising_hand_man: 18y/o IT high school student  
 :book: Currently learning **React**  
