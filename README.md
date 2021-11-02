@@ -10,6 +10,6 @@
 :roll_eyes: I am ... **ambitious, patient, calm**  
 :heart: Interested in **technology :desktop_computer:,** **sport :weight_lifting_man:,**  
 :mailbox: Contact me ! ogryzek.arkadiusz@gmail.com  
-:pencil: My CodeForces profile :) https://codeforces.com/profile/ArZi
+<!-- :pencil: My CodeForces profile :) https://codeforces.com/profile/ArZi -->
 
 
