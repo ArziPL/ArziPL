@@ -6,7 +6,7 @@
 :raising_hand_man: 18y/o IT high school student  
 :book: Currently learning **MERN**  
 :wrench: Working on **Exchange**  
-:running: Would like to get a job as  **Frontend/Full Stack Dev**  
+:running: Would like to get a job as  **Full Stack Dev**  
 :roll_eyes: I am **ambitious, patient, calm**  
 :heart: Interested in ... **technology :desktop_computer:,** **sport :weight_lifting_man:**  
 :mailbox: Contact me ! ogryzek.arkadiusz@gmail.com  
