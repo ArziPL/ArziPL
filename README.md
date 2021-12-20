@@ -1,4 +1,4 @@
-# <p align="center">🐱‍👤 ArziPL 🐱‍👤</p>
+# <p align="center">:smile_cat: ArziPL :smile_cat:</p>
 
 <img width="460" align="right" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzipl&theme=highcontrast"/>
 
