@@ -1,14 +1,14 @@
-# <p align="center">:smile_cat: ArziPL :smile_cat:</p>
+# <p align="center">:point_right: ArziPL :point_left:</p>
 
 <img width="460" align="right" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzipl&theme=highcontrast"/>
 
 ### About me :  
-:raising_hand_man: 18y/o IT high school student  
-:book: Currently learning **MERN**  
-:wrench: Working on **Exchange**  
+:raising_hand_man: 19y/o IT high school student  
+:book: Currently learning **Next.js/Python**  
+:wrench: Working on **Exams**  
 :running: Would like to get a job as  **Full Stack Dev**  
-:roll_eyes: I am **ambitious, patient, calm**  
-:heart: Interested in ... **technology :desktop_computer:,** **sport :weight_lifting_man:**  
+:roll_eyes: I am **ambitious, patient, calm, quiet**  
+:heart: Interested in ... **technology :desktop_computer:,** **sport :weight_lifting_man:**, **gaming :video_game:**  
 :mailbox: Contact me ! ogryzek.arkadiusz@gmail.com  
 
 ### Prefer :
