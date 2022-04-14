@@ -1,4 +1,4 @@
-# <p align="center">:point_right: ArziPL :point_left:</p>
+# <p align="center">:point_right: ArZi :point_left:</p>
 
 <img width="460" align="right" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzipl&theme=highcontrast"/>
 
