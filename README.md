@@ -5,7 +5,7 @@
 ### About me :  
 :raising_hand_man: 19y/o IT high school student  
 :book: Currently learning **Next.js/Python**  
-:wrench: Working on **Exams**  
+:wrench: Working on **portfolio-site**  
 :running: Would like to get a job as  **Full Stack Dev**  
 :roll_eyes: I am **ambitious, patient, calm, quiet**  
 :heart: Interested in ... **technology :desktop_computer:,** **sport :weight_lifting_man:**, **gaming :video_game:**  
