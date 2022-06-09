@@ -6,7 +6,7 @@
 :raising_hand_man: 19y/o IT high school student  
 :book: Currently learning **Next.js/Python**  
 :wrench: Working on **getting job**  
-:running: Would like to get a job as  **Full Stack Dev**  
+:running: Would love to get a job as  **Next.js dev**  
 :roll_eyes: I am **ambitious, patient, quiet**  
 :heart: Interested in ... **technology :desktop_computer:,** **sport :weight_lifting_man:**, **gaming :video_game:**  
 :mailbox: Contact me ! ogryzek.arkadiusz@gmail.com  
