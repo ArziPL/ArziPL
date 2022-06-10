@@ -3,7 +3,7 @@
 <img width="460" align="right" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzipl&theme=highcontrast"/>
 
 ### About me :  
-:raising_hand_man: 19y/o IT high school graduate, actively looking for a job  
+:raising_hand_man: 19y/o IT high school graduate, looking for a job  
 :book: Currently learning **Next.js/Python**  
 :wrench: Working on **getting job**  
 :running: Would love to get a job as  **Next.js dev**  
